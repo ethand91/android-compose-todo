@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Jetpack Room</string>
+
+    <!-- for main -->
+    <string name="main_title">Todo List</string>
+    <string name="main_new_todo">New Todo</string>
+    <string name="main_add_todo">Add</string>
+
+    <!-- for todo -->
+    <string name="todo_created_at">Created at:</string>
 </resources>
